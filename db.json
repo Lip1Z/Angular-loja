@@ -1,0 +1,45 @@
+{
+  "produtos": [
+  {
+      "nome": "Teclado Gamer",
+      "descrição": "Teclado Gamer RGB multi-devices",
+      "imagemUrl": "https://m.media-amazon.com/images/I/41VmLVnHL3L._AC_SX679_.jpg",
+      "preco": "150",
+      "estoque": 12
+  },
+  {
+    "nome": "Mouse Gamer",
+    "descrição": "Mouse Gamer RGB 1200dpi",
+    "imagemUrl": "https://m.media-amazon.com/images/I/8189uwDnMkL.__AC_SX300_SY300_QL70_ML2_.jpg",
+    "preco": "59",
+    "estoque": 56
+  },
+  {
+    "nome": "Monitor Ultra Wide",
+    "descrição": "Monitor Ultra Wide 29 polegadas IPS 144ms",
+    "imagemUrl": "https://m.media-amazon.com/images/I/81wfdDTIjHS.__AC_SY300_SX300_QL70_ML2_.jpg",
+    "preco": "1699",
+    "estoque": 5
+  },
+  {
+    "nome": "Notebook Gamer",
+    "descrição": "Notebook Gamer com placa dedicada",
+    "imagemUrl": "https://vaiobr.vtexassets.com/arquivos/ids/162655-800-800?v=638605572153400000&width=800&height=800&aspect=true",
+    "preco": "5000",
+    "estoque": 2
+  }
+  ],
+
+"clientes": [
+    {"matricula": 1, "nome": "Lapenda", "idade": 20, "serie": "4º"},
+    {"matricula": 2, "nome": "Leitão", "idade": 22, "serie": "4º"},
+    {"matricula": 3, "nome": "Melo", "idade": 30, "serie": "5º"},
+    {"matricula": 4, "nome": "Monise", "idade": 40, "serie": "2º"},
+    {"matricula": 5, "nome": "Janinny", "idade": 60, "serie": "3º"},
+    {"matricula": 6, "nome": "Jequitinhonha", "idade": 70, "serie": "3º"},
+    {"matricula": 7, "nome": "Arti", "idade": 4, "serie": "3º"},
+    {"matricula": 8, "nome": "Andrey", "idade": 24, "serie": "4º"},
+    {"matricula": 9, "nome": "Marllon", "idade": 44, "serie": "3º"},
+    {"matricula": 10, "nome": "Cabelin", "idade": 57, "serie": "4º"}
+]
+}
