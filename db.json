@@ -2,28 +2,28 @@
   "produtos": [
   {
       "nome": "Teclado Gamer",
-      "descrição": "Teclado Gamer RGB multi-devices",
+      "descricao": "Teclado Gamer RGB multi-devices",
       "imagemUrl": "https://m.media-amazon.com/images/I/41VmLVnHL3L._AC_SX679_.jpg",
       "preco": "150",
       "estoque": 12
   },
   {
     "nome": "Mouse Gamer",
-    "descrição": "Mouse Gamer RGB 1200dpi",
+    "descricao": "Mouse Gamer RGB 1200dpi",
     "imagemUrl": "https://m.media-amazon.com/images/I/8189uwDnMkL.__AC_SX300_SY300_QL70_ML2_.jpg",
     "preco": "59",
     "estoque": 56
   },
   {
     "nome": "Monitor Ultra Wide",
-    "descrição": "Monitor Ultra Wide 29 polegadas IPS 144ms",
+    "descricao": "Monitor Ultra Wide 29 polegadas IPS 144ms",
     "imagemUrl": "https://m.media-amazon.com/images/I/81wfdDTIjHS.__AC_SY300_SX300_QL70_ML2_.jpg",
     "preco": "1699",
     "estoque": 5
   },
   {
     "nome": "Notebook Gamer",
-    "descrição": "Notebook Gamer com placa dedicada",
+    "descricao": "Notebook Gamer com placa dedicada",
     "imagemUrl": "https://vaiobr.vtexassets.com/arquivos/ids/162655-800-800?v=638605572153400000&width=800&height=800&aspect=true",
     "preco": "5000",
     "estoque": 2
